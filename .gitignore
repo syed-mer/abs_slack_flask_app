@@ -1,4 +1,6 @@
-
+__pycache__/
+bin/
+lib/
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
