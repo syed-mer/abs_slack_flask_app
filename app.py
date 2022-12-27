@@ -116,6 +116,6 @@ def files_trigger():
 #                    "text": "Hello world"}}]
 
 if __name__ == "__main__":
-    app.run(debug=True) #debug = True, makes sure if we modify this file we don't need to rerun the python script
-    
+    #app.run(debug=True) #debug = True, makes sure if we modify this file we don't need to rerun the python script
+    app.run(debug=True, host='0.0.0.0', port=8080)
     
