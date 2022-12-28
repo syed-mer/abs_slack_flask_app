@@ -20,7 +20,6 @@ lockfile
 lxml
 matplotlib
 mock
-mysql_connector_repackaged
 numexpr
 numpy
 pandas
