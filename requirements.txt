@@ -6,7 +6,6 @@ brotlicffi
 cchardet
 ConfigParser
 cryptography
-Cython
 dl
 docutils
 Flask
@@ -37,7 +36,6 @@ seaborn
 simplejson
 slackeventsapi
 Sphinx
-tokio
 toml
 tornado
 trove_classifiers
